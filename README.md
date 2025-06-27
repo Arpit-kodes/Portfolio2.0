@@ -2,7 +2,7 @@
 
 **📌 Project Info**
 
-URL: https://lovable.dev/projects/a59584d7-e5a7-4331-b3c6-efb3f8885e64
+URL:[ https://lovable.dev/projects/a59584d7-e5a7-4331-b3c6-efb3f8885e64](https://arpitkodes.vercel.app/)
 
 *<h2>✏️ How to Edit This Code</h2>*
 You can edit and customize the project in a few different ways:
