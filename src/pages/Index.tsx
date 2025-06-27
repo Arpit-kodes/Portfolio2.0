@@ -256,7 +256,7 @@ const Index = () => {
             <div className="absolute inset-0 bg-gradient-to-r from-blue-600 to-purple-600 rounded-full blur-2xl opacity-30 animate-glow"></div>
             <div className="relative w-80 h-80 mx-auto mb-12 rounded-full overflow-hidden shadow-2xl animate-float">
               <img 
-                src="public\arpit.jpeg"
+                src="public/arpit.jpeg"
                 alt="Arpit Gupta" 
                 className="w-full h-full object-cover"
               />
